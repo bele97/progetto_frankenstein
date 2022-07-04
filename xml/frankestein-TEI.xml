@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>titoloopera Editore. Versione digitale</title>
+				<author xml:id="MSW">
+					<persName sameAs="http://viaf.org/viaf/2470550">Shelley, Mary Wollstonecraft, 1797-1851</persName>
+					<respStmt>
+						<resp>Editore</resp>
+						<resp>Casa Editrice</resp>
+						<name xml:id="CM">nostrinomiecognomi</name>
+					</respStmt>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<distributor resp="#ABGBFV">nostrinomiecognomi</distributor>
+			     <date when="2022-05-25">25 Maggio 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>titoloeeditore</title>
+					<author resp="#MSW">Shelley, Mary Wollstonecraft, 1797-1851</author>
+					<date when="1823">1823</date>
+					<pubPlace>London</pubPlace>
+					<publisher>editore</publisher>
+					<extent>numerodipagine</extent>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="eng(lingua)togli">
+		<front>
+			<div type="dedication">
+				<titlePage>Frankestein: or, the modern prometheus</titlePage>
+				<p>By Mary Wollstonecraft Shelley
+				<rs type="organization">In two volumes</rs>a new edition <abbr type="publisher">printed for</abbr> G. and W. B. Whittaker</p>
+			</div>
+			<div type="contents">
+				<head>preface</head> 
+		    </div>		
+		</front>	
+		<body>		
+		    The event on which this fiction is founded has been supposed, by <abbr type="title">Dr.</abbr> <name type="person">Darwin,</name>and some of the physiological writers of <name type="place">Germany,</name>as not of impossible occurrence. I shall not be supposed as according the remotest degree of serious faith to such an imagination; yet, in assuming it as the basis of a work of fancy, I have not considered myself as merely weaving a series of <index indexname="supernatural" resp="#ABGBFV"> <terms>supernatural terrors</terms></index>.The event on which the interest of the story depends is exempt from the disadvantages of a mere tale of spectres or enchantment. It was recommended by the novelty of the situations which it developes; and, however impossible as a physical fact, affords a point of view to <index indexname="Filosofia" resp="#ABGBFV"><terms>the imagination</terms></index>of the delineating of human passions more comprehensive and commanding than any which the ordinary relations of existing events can yield.I have thus endeavoured to preserve the truth of the elementary principles of human nature, while I have not scrupled to innovate upon their combinations. The Iliad,the tragic <index indexname="poetry" resp="#CM"><terms>poetry of Greece</terms></index><name type="person">Shakespeare</name>, in the Tempest and Midsummer Night's Dream—and most especially, <name type="person">Milton</name>, in <name type="title">Paradise Lost</name>, conform to this rule; 
+        </body>
+	
+	</text>
+</TEI>

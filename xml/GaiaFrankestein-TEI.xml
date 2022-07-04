@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+	    <fileDesc>
+		    <titleStmt>
+			    <title>Paradise Lost</title>
+				<author ref="#JM">John Milton, 1608-1674</author>
+				<respStmt>
+					<resp>Editore prima pubblicazione</resp>
+					<name xml:id="SS">Samuel Simmons</name>
+					<resp>Trascrizione digitale</resp>
+				    <name xml:id="GB">Gaia Berettoni</name>
+				</respStmt>
+			</titleStmt>
+			<sourceDesc>
+				<biblFull>
+					<titleStmt>
+					    <title>Paradise Lost</title>
+					    <author>
+						    <name>John Milton</name>
+					    </author>
+					</titleStmt>
+					<publicationStmt>
+					    <publisher>Samuel Simmons</publisher>
+					    <pubPlace>London</pubPlace>
+					    <date when="1667">1667</date>
+					</publicationStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>	
+		<body>	
+		    <l><index indexname="religion" respStmt="GB">Of Mans First Disobedience</index>, and the Fruit</l>
+            <l>Of that Forbidden Tree, whose mortal tast</l>
+            <l>Brought Death into the World, and all our woe,</l>
+            <l>With loss of <name type="place">Eden</name>, till one greater Man</l>
+            <l>Restore us, and regain the blissful Seat,</l>
+            <l><index indexname="poetry" respStmt="GB">Sing, Heav'nly Muse,</index> that on the secret top</l>
+            <l>Of Oreb, or of <name type="place">Sinai,</name> didst inspire</l>
+            <l>That Shepherd, who first taught the chosen Seed,</l>
+            <l>In the Beginning how the Heav'ns and Earth</l>
+            <l>Rose out of Chaos: Or if Sion Hill</l>
+            <l>Delight thee more, and Siloa's Brook that flow'd</l>
+            <l>Fast by the Oracle of <index indexname="religion" respStmt="GB">God;</index> I thence</l>
+            <l>Invoke thy aid to my adventrous <index indexname="poetry" respStmt="GB">Song,</index></l>
+            <l>That with no middle flight intends to soar</l>
+        </body>
+	</text>
+</TEI>

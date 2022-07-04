@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<raccolta xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="Frankenstein">
+		<opera xml:id="ParadisoPerduto">
+			<dc:title xml:lang="en">Paradise Lost</dc:title>
+			<dc:creator ref="https://viaf.org/viaf/314808661">John Milton, 1608-1674</dc:creator>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85103704">Poetry</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85112549">Religion</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85037376">Lucifer</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85043814">Commonwealth Literature</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85025219">Christianity</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85025219">Judaism</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85068390">Islam</dc:subject>
+			<dc:description xml:lang="it">Il poema tratta il racconto ebraico-cristiano-islamico della caduta dell'uomo: la tentazione di Adamo ed Eva da parte di Lucifero, e la loro cacciata dal Giardino dell'Eden.</dc:description>
+			<dc:publisher>Samuel Simmons</dc:publisher>
+			<dc:date>1667</dc:date>
+			<dc:place ref="http://www.geonames.org/2643743/london.html">London</dc:place>
+			<dc:type>testo</dc:type>		
+			<dc:language>en</dc:language>
+		</opera>
+	</raccolta>
