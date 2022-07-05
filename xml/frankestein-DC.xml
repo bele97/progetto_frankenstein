@@ -4,11 +4,11 @@
 			<dc:title xml:lang="en">Frankenstein; or the modern Prometheus</dc:title>
 			<dc:creator ref="http://viaf.org/viaf/2470550">Mary Shelley Wollstonecraft, 1797-1851</dc:creator>
 			<dc:subject>Romanzo gotico</dc:subject>
-			<dc:subject>Romanzo epistolare</dc:subject>
-			<dc:subject>Horror</dc:subject>
-			<dc:subject>Fantascienza</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85044453">Epistolary Fiction</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85044453">Horror</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85118629">Science Fiction</dc:subject>
 			<dc:subject>Mostro</dc:subject>
-			<dc:subject>Scienza</dc:subject>
+			<dc:subject ref="http://id.loc.gov/authorities/subjects/sh85118629">Science</dc:subject>
             <dc:description xml:lang="it">In seguito alla prematura morte di sua madre, Victor Frankenstein decide di iniziare a studiare medicina e si interessa agli esperimenti del professor Waldman che lo ispirano nella creazione di un mostro dalle sembianze umane.</dc:description>
 			<dc:publisher>Unknown</dc:publisher>
 			<dc:date>1818</dc:date>
@@ -17,4 +17,5 @@
             <dc:language>en</dc:language>
 	    </libro>
 	</raccolta>
+
 
